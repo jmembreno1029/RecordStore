@@ -12581,11 +12581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\SWD104Final.csproj",
+      "projectUniqueName": "C:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\SWD104Final.csproj",
       "projectName": "SWD104Final",
-      "projectPath": "c:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\SWD104Final.csproj",
+      "projectPath": "C:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\SWD104Final.csproj",
       "packagesPath": "C:\\Users\\membr\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\obj\\",
+      "outputPath": "C:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12639,6 +12639,7 @@
             "autoReferenced": true
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.1, )"
           }

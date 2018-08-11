@@ -19,15 +19,6 @@ namespace SWD104Final.Models
         public virtual DbSet<artists> artists { get; set; }
         public virtual DbSet<tracks> tracks { get; set; }
 
-//         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-//         {
-//             if (!optionsBuilder.IsConfigured)
-//             {
-// #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-//                 optionsBuilder.UseSqlite("Data Source=C:\\Users\\membr\\OneDrive\\Desktop\\SWD104Final\\chinook.db");
-//             }
-//         }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<albums>(entity =>

@@ -45,3 +45,6 @@ C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Views\
 C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Views\Tracks\Details.g.cshtml.cs
 C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Views\Tracks\Edit.g.cshtml.cs
 C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Views\Tracks\Index.g.cshtml.cs
+C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\membr\OneDrive\Desktop\SWD104Final\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
